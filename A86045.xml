@@ -1,0 +1,664 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nativity of that most illustrious and magnanimous prince, Carolus Gustavus, King of Sweden, astrologically handled; and published for the honour of art, and the satisfaction of all sorts of persons generally, as well astrologers as others; and particularly for the better information of Mr. William Lilly. Written by Merlinus Verax.</title>
+            <author>Gadbury, John, 1627-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86045</idno>
+            <idno type="STC">Wing G88A</idno>
+            <idno type="STC">Thomason E980_13</idno>
+            <idno type="STC">ESTC R207745</idno>
+            <idno type="EEBO-CITATION">99866781</idno>
+            <idno type="PROQUEST">99866781</idno>
+            <idno type="VID">168563</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168563)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E980[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nativity of that most illustrious and magnanimous prince, Carolus Gustavus, King of Sweden, astrologically handled; and published for the honour of art, and the satisfaction of all sorts of persons generally, as well astrologers as others; and particularly for the better information of Mr. William Lilly. Written by Merlinus Verax.</title>
+                  <author>Gadbury, John, 1627-1704.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Merlinus Verax = John Gadbury.</note>
+                  <note>Annotation on Thomason copy: "May 2d"; "May 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Sweden --  History --  Charles X Gustavus, 1654-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168563:1" rendition="simple:additions"/>
+            <p>THE NATIVITY OF That moſt Illuſtrious and Magnani<g ref="char:EOLhyphen"/>mous PRINCE, Carolus Guſtavus, KING of <hi>SWEDEN,</hi> Aſtrologically handled; AND Publiſhed for the honour of Art, and the ſatis<g ref="char:EOLhyphen"/>faction of all ſorts of Perſons generally, as well Aſtrologers as Others; And particularly for the better Information of Mr. WILLIAM LILLY.</p>
+            <p>WRITTEN By MERLINUS VERAX.</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Obſequium amicos, veritas odium parit:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Flatter, and Friends thou ſhalt obtain;</l>
+                  <l>Speak Truth, and Hatred thou ſhalt gain.</l>
+               </lg>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:168563:2"/>
+            <pb facs="tcp:168563:2"/>
+            <head>AD LECTOREM.</head>
+            <p>
+               <seg rend="decorInit">H</seg>E is but a left-handed Friend unto the Art he pro<g ref="char:EOLhyphen"/>feſſeth, that when he ſeeth it ſinking, will not uſe his honeſt and beſt endeavours to ſupport it. <hi>Aſtrologie</hi> is now brought upon the ſtage of the World; and divers envious Spectators are big with Hope and Expectation, that it will be hiſſed off with diſparagement.</p>
+            <p>For prevention of which, I publiſh the Nativity of this il<g ref="char:EOLhyphen"/>luſtrious and magnanimous Prince; (he being the onely bla<g ref="char:EOLhyphen"/>zing Meteor of this Age, at whom all perſons ſtand amazed!) having no better way at preſent to yeild it the aſſiſtance it re<g ref="char:EOLhyphen"/>quires. What I have written, is <hi>ſecundum Artem,</hi> as every honeſt Aſtrologer knows; yet, I could with eaſe (like others) have written what ſhould more have delighted this Princely Natives Ears.—But that had been onely to have danced after the Pipes of the Jewiſh Dreamers, who to flatter, and comply with the current, could predict any thing.</p>
+            <q>
+               <lg>
+                  <l>Qualiacun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> voles, Judaei ſomnia vendent:<note place="margin">Juv. Sat.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The Jews will ſell good News for gain</l>
+                  <l>Of Silver, Pearl, or a Gold Chain.</l>
+               </lg>
+            </q>
+            <p>As there are a ſort of Perſons that talk much of <hi>Robin<g ref="char:EOLhyphen"/>hood,</hi>
+               <pb facs="tcp:168563:3"/>and yet never ſhot in his Bow; ſo are there many pre<g ref="char:EOLhyphen"/>tending to Aſtrologie, that know (God knows) very little thereof; yet like that <hi>Babyloniſh Dream-teller Semajas,</hi> will be twatling to the diſparagement of Art, and (many times) to the dear-bought experience of their Clyents.</p>
+            <p>The Phythian Propheteſs abuſing King <hi>Philip's</hi> Credulity, with her ſilly and ſpurious Oracles, drew him into many eminent dangers; which at the laſt being commonly noted and perceiv<g ref="char:EOLhyphen"/>ed, it was grown to a By-word in thoſe days,—That <hi>Pythia</hi> did <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, pleaſe or flatter <hi>Philip.</hi> I wiſh this eminent Prince his eaſie nature, be not ſo wrought upon at the laſt, by ſome pretending Aſtrologie. A Princes Ears ſhould not be fly-blown with flatteries: The Paraſite is (of all others) his greatest enemy.</p>
+            <p>And really, did I perceive either greater ſafety or danger to happen to this valiant <hi>Hero,</hi> then what I have plainly noted in the following Diſcourſe, I ſhould (for this illuſtrious Natives advantage, and the honour of Art) acquaint the World there<g ref="char:EOLhyphen"/>with: But to write otherwiſe then I ſee an apparent reaſon for, in the Art I do profeſs, I would not, were it moſt ſure to ſpring me a <hi>Diadem.</hi>
+            </p>
+            <p>What advantage hath he, that in the power of a Lye flouriſh<g ref="char:EOLhyphen"/>eth for a moment; when both his honour and memory ſhall be ſubject to the Scoffs and Curſes of perſons yet to be born? The ignorant perſon is forbidden to judge hereof; the cenſure of the judicious ſhall be eſteemed moſt worthily welcome— unto—</p>
+            <closer>
+               <dateline>♄ <date>Jan. 29. 1659.</date>
+               </dateline>
+               <signed>Merlinus Verax.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:168563:3"/>
+            <head>The NATIVITY of the Illuſtrious KING of SWEDEN, Aſtrologically handled.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Eminent and Prodigious Prince was born in the yeer 1622. on <hi>November</hi> the 7th. <hi>Stilo veteri,</hi> 14 <hi>hours</hi> 28 <hi>minutes P.M.</hi> or afternoon, at <hi>Stockholm,</hi> where the <hi>Pole</hi> is elevated above the Horizon 59 <hi>Degrees.</hi> The places of the Planets to the time given are as followeth:</p>
+            <p>
+               <table>
+                  <head>Longitude</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">m.</cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>☉</cell>
+                     <cell>25</cell>
+                     <cell>40</cell>
+                     <cell>♏</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>24</cell>
+                     <cell>16</cell>
+                     <cell>♉</cell>
+                  </row>
+                  <row>
+                     <cell>☊</cell>
+                     <cell>9.</cell>
+                     <cell>12.</cell>
+                     <cell>♏</cell>
+                  </row>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>5.</cell>
+                     <cell>2.</cell>
+                     <cell>♌ R.</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>29.</cell>
+                     <cell>19.</cell>
+                     <cell>♋ R.</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>11.</cell>
+                     <cell>5.</cell>
+                     <cell>♎</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>2.</cell>
+                     <cell>12.</cell>
+                     <cell>♏</cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>16.</cell>
+                     <cell>12.</cell>
+                     <cell>♐</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Latitude</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">m.</cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>0.</cell>
+                     <cell>31.</cell>
+                     <cell rows="2">South.</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>0.</cell>
+                     <cell>16.</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>0.</cell>
+                     <cell>32.</cell>
+                     <cell rows="2">North.</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>1.</cell>
+                     <cell>35.</cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>2.</cell>
+                     <cell>38.</cell>
+                     <cell rows="2">South.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1.</cell>
+                     <cell>0.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Aſcentio Recta <hi>Solis</hi>
+                     </cell>
+                     <cell>233.</cell>
+                     <cell>19.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Aſcentio Rect. Temp.</cell>
+                     <cell>217.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Added together</cell>
+                     <cell role="total">450.</cell>
+                     <cell role="total">19.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Circle Subſtract.</cell>
+                     <cell>360.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">A.R.M.C. remains</cell>
+                     <cell role="total">90.</cell>
+                     <cell role="total">19.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Add the Quadrant</cell>
+                     <cell>90.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Produceth the O. A. of the <hi>Horoſcope</hi>
+                     </cell>
+                     <cell role="total">180.</cell>
+                     <cell role="total">19.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>For the Midheaven.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>m.</hi>
+                     </cell>
+                     <cell role="label">♋</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>m.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Next Greater</cell>
+                     <cell>91</cell>
+                     <cell>5.</cell>
+                     <cell>1.</cell>
+                     <cell>
+                        <hi>R. A.</hi>
+                     </cell>
+                     <cell>90.</cell>
+                     <cell>19.</cell>
+                  </row>
+                  <row>
+                     <cell>Next Leſſer</cell>
+                     <cell>90.</cell>
+                     <cell>0.</cell>
+                     <cell>0.</cell>
+                     <cell>
+                        <hi>L. A.</hi>
+                     </cell>
+                     <cell>90.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Differentia</hi>
+                     </cell>
+                     <cell role="total">1.</cell>
+                     <cell role="total">5.</cell>
+                     <cell role="total">1.</cell>
+                     <cell role="total"> </cell>
+                     <cell role="total">0.</cell>
+                     <cell role="total">19.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="6" facs="tcp:168563:4"/>
+            <p>If 65 <hi>m.</hi> give 60 <hi>m.</hi> What ſhall 19 <hi>m.</hi> give? <hi>Anſwer,</hi> 18 <hi>m. ferè: Ergo,</hi> the Cuſp of the Midheaven is ♋ 0 <hi>d.</hi> 18 <hi>m.</hi>
+            </p>
+            <p>
+               <table>
+                  <head>For the Aſcendant.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>m.</hi>
+                     </cell>
+                     <cell role="label">♎</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>m.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Next Greater</cell>
+                     <cell>181.</cell>
+                     <cell>34.</cell>
+                     <cell>1.</cell>
+                     <cell>
+                        <hi>O. A.</hi>
+                     </cell>
+                     <cell>180.</cell>
+                     <cell>19.</cell>
+                  </row>
+                  <row>
+                     <cell>Next Leſſer</cell>
+                     <cell>180.</cell>
+                     <cell>0.</cell>
+                     <cell>0.</cell>
+                     <cell>
+                        <hi>L. A.</hi>
+                     </cell>
+                     <cell>180.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Different.</hi>
+                     </cell>
+                     <cell role="total">1.</cell>
+                     <cell role="total">34.</cell>
+                     <cell role="total">1.</cell>
+                     <cell role="total"> </cell>
+                     <cell role="total">0.</cell>
+                     <cell role="total">19.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>If 94 <hi>m.</hi> gives 60 <hi>m.</hi> What ſhall 19 <hi>m.</hi> give? <hi>Anſw.</hi> 13. <hi>m. ferè: Ergo,</hi> the Cuſp of the Aſcendant, is ♎ 0 <hi>d.</hi> 13 <hi>m.</hi>
+            </p>
+            <p>The Angles of the Figure being thus obtained, I gain the Cuſps of the Succedents and Cadents, by the Domifying Table, true enough. And then the Figure is as followeth:</p>
+            <figure>
+               <figDesc>figure containing astrological data</figDesc>
+               <head>CAROLUS GU<g ref="char:EOLhyphen"/>STAVUS King of SWEDEN, Born 1622. <hi>Nov.</hi> 7. 14 <hi>h.</hi> 28. <hi>m.</hi> P. M. Lat. 59. Deg.</head>
+            </figure>
+            <p>The Dignities and Debilities of the Planets in this eminent Perſons Nativity, are thus:
+<list>
+                  <item>☉ Strong by 6 Teſtimo<g ref="char:EOLhyphen"/>nies.</item>
+                  <item>♄ Strong by 3 Teſtimo<g ref="char:EOLhyphen"/>nies.</item>
+                  <item>♃ Strong by 9 Teſtimo<g ref="char:EOLhyphen"/>nies.</item>
+                  <item>♂ Strong by 13 Teſtimo<g ref="char:EOLhyphen"/>nies.</item>
+                  <item>♀ Weak by 2 Teſtimo<g ref="char:EOLhyphen"/>nies.</item>
+                  <item>☿ Strong by 2 Teſtimo<g ref="char:EOLhyphen"/>nies.</item>
+                  <item>
+                     <g ref="char:Moon">☽</g> Strong by 11 Teſtimo<g ref="char:EOLhyphen"/>nies.</item>
+               </list>
+            </p>
+            <pb n="7" facs="tcp:168563:4"/>
+            <p>By which Collection of Teſtimonies, it appears ♂ is <hi>Almu<g ref="char:EOLhyphen"/>ten</hi> of this Geniture. — And that is the principal reaſon of this Eminent Natives great Fame, Adventure, and activity, in warlike Actions and Attempts.</p>
+            <p>This Geniture was rectified (1.) by the Midheavens occurſe unto the Body of ♃, which happened exactly in <hi>June</hi> 1654. when this renowned Native came to the Crown of <hi>Sweden,</hi> and while that was in force over-ran all <hi>Poland.</hi> (2.) By the Midheavens direction to the ſquare of ♀, that happened neer the later end of 1656. at which time the Duke of <hi>Brandenburgh,</hi> and this Prince<g ref="char:EOLhyphen"/>ly Native differed, <hi>&amp;c.</hi>
+            </p>
+            <div type="part">
+               <head>A general Judgment on this Nativity.</head>
+               <p>BEfore I deſcend to particular obſervations hereon, it will not be amiſs to premiſe — That in this undertaking, I write not in hopes of reward; nor out of any diſaffection or prejudice to the Magnanimous Prince therein concerned: But only to free Aſtrologie from the ignorance and unworthineſs of ſome, the ſcandal and reproach of others; and (if it be poſſible in ſo ſmall a room) to yeeld ſatisfaction to all! Even to this Glorious Prince himſelf [He being a perſon whoſe Name and Memory I honour, not ſo much for his unparallel'd attempts, and eminent warlike actions; as for his being a conſtant friend to the <hi>Engliſh</hi> Intereſt; a very faithful confederate and correſpondent of ours; and a great ſupporter of the true Proteſtant Religion.] And al<g ref="char:EOLhyphen"/>ſo to his friends and Relations, who (with others) are gazing and admiring at him and his moſt Prodigious Attempts and un<g ref="char:EOLhyphen"/>dertakings: but I ſhall not in the leaſt reflect upon, either his Perſon, Government, Actions, or Engagements; they being not at all concerned in my preſent task; for I am to diſcharge my ſelf Aſtrologically, not Politically. —</p>
+               <p>— And —
+<q>
+                     <l>Quae ſupra nos, nihil ad nos:</l>
+                     <l>What is above us, we may well neglect.</l>
+                  </q>
+               </p>
+               <p>To begin then.</p>
+               <p>The very beginning of the Equinoctial ſigne ♎, is here Ho<g ref="char:EOLhyphen"/>roſcopical; and the fiery Planet ♂, is poſited in the Aſcendent; but he is in reception with the benigne Planet ♀, Lady thereof. <hi>Mars</hi> (I told you before) was the beſt Planet for ſtrength in
+<pb n="8" facs="tcp:168563:5"/>the figure; and of his ſignifications let <hi>Origanus</hi> acquaint us.— <hi>Mars ſolus ſignificator morum fortis,</hi>
+                  <note place="margin">His Incli<g ref="char:EOLhyphen"/>nation.</note> 
+                  <hi>&amp; bene affectus,</hi> (he is ſo in this Scheme) <hi>efficit generoſus, contemptores aliorum gubernationi imprimis militum idoneos, animoſos, fortes, iracundos, crudeles, prae<g ref="char:EOLhyphen"/>liatores, arma appetentes, vehementes manu, promptos, apertos, cum quadam temeritate pericula non metuentes, vindictae cupidos, impati<g ref="char:EOLhyphen"/>entes ſervitutis &amp; injuriarum, jactabundos, divitias parum curan<g ref="char:EOLhyphen"/>tes:</hi> (i.e.) <hi>Mars</hi> being ſignificator of Manners alone, ſtrong and well affected, Argues the Native to be generous, high-min<g ref="char:EOLhyphen"/>ded, valiant, and full of courage; a Contemner of all things in compariſon of Rule or Government: he is wrathful, violent and fierce; in actions or words, ſometimes temerarious or raſh; yet fearing no danger: given to boaſt, and deſirous of revenge: impatient of ſervitude, ſcorns to receive affronts or injuries. <hi>Orig. de effectib. pars</hi> 3. <hi>fol.</hi> 588.</p>
+               <p>Some Aſtrologers may perhaps quarrel at me, for not taking knowledge of ♂ his being in Detriment, and ſo have rendered his ſignifications of the Manners of this Princely Native as be<g ref="char:EOLhyphen"/>ing weak; which ſhould have been thus, according to the before<g ref="char:EOLhyphen"/>cited Author:—<hi>Crudeles, injuſtos, rixoſos, tyrannicos, Deum ſpernentes, male ſuos cives regentes, truculentos, Thraſones teme<g ref="char:EOLhyphen"/>rarios, aliena &amp; propria deſtruentes, inverecundos, ſumptuoſos, e<g ref="char:EOLhyphen"/>brioſos, turbulentos, effuſores ſanguinis, feroces in laceſſendo, &amp; ubi adrem ventum eſt, timidos autores diſcordiarum, praedones, ar<g ref="char:EOLhyphen"/>rogantes, ſeditioſos.</hi> But although <hi>Mars</hi> do receive his detri<g ref="char:EOLhyphen"/>ment in ♎, yet being in reception with ♀, I look upon his debi<g ref="char:EOLhyphen"/>lity the leſs, and yet his dignity not to be ſo great, as if he were in his own houſe.</p>
+               <p>This is moſt certain, that this Princely Native is a perſon of great ſpirit, courage or reſolution, of very great activity and for<g ref="char:EOLhyphen"/>wardneſs; of a lofty towring Fancie, and every way moſt wor<g ref="char:EOLhyphen"/>thyly accompliſhed, and fitted for Noble and Heroick Acts.</p>
+               <p>Now for an eminent teſtimony of this Princely Natives Ho<g ref="char:EOLhyphen"/>nour and Greatneſs,<note place="margin">His honour and eminen<g ref="char:EOLhyphen"/>cy.</note> we find in the foregoing Scheme, ♃ in the <hi>M.C. viz.</hi> the Angle of Honour and Dignity, and in his Exal<g ref="char:EOLhyphen"/>tation alſo. The learned <hi>Argol,</hi> in <hi>Ptol. parv. lib.</hi> 1. tells us, — That ♃ poſited in the tenth Houſe of a Nativity, denotes great Honours, Preferment and Dignity to him that is then born. And ♃ being here in good Configuration of both the Luminaries, very much augments to the Dignity and Renown his poſition
+<pb n="9" facs="tcp:168563:5"/>there portends. Moſt Authors tell us, — That if <hi>Jupiter</hi> be poſited in the tenth Houſe, in Trine to the Sun, it declares the Native to be a King, or otherwiſe a very eminent perſon.</p>
+               <p>But the all-conquering <hi>Alexander,</hi> who had a moſt glorious Nativity in the general, yet had ſome particular infortunate Po<g ref="char:EOLhyphen"/>ſitions therein, if we may credit the learned <hi>Lyndholt.</hi> So alſo, hath this moſt worthy <hi>Hero!</hi> which ſeriouſly ought to be conſi<g ref="char:EOLhyphen"/>dered, and this eminent Native acquainted therewith. For thoſe perſons that cry nothing but Peace, and pipe out nothing but Victory, Conqueſt and Triumph to Princes, eſpecially when there are Teſtimonies of eminent Loſſes and Dangers (and this to their knowledge) impending, are enemies more intolerable to them, then thoſe that the moſt publickly oppoſe them. But ſome perſons there are, that value not the reputation of them<g ref="char:EOLhyphen"/>ſelves, or the Art they profeſs! Indeed what need they, when they have made their moſt and beſt of it, and quite done their work? There is a certain ſleight or juggle of the brain, as well as the hand; and thoſe that claw and ſlatter great perſons, are no better then the Birds of a <hi>Bartholomew</hi> Fair: nay, a man can hardly diſtinguiſh the one from the other, but by their terms, <hi>viz.</hi> The <hi>Smithfield</hi> man's, laſt but a Fortnight; the fauning Flatterer (which is the greater Bird of Prey) his term is without date, until his work, with his life, be done. Now I ſhall return to the Arguments of evil, (having acquainted you with thoſe of worth already) and they are theſe:</p>
+               <p n="1">1. The beneficial Planet ♃, the onely Promiſer of Renown, Honour and Dignity to this Native, is Retrograde, in Conjun<g ref="char:EOLhyphen"/>ction of ♄, and Quartile of ♀ Lady of the Aſcendent; which ſhould ſeem to threaten a great Rent or Chaſm in this eminent Natives Honour and Dignity, <hi>&amp;c.</hi> Hear what the learned <hi>Ar<g ref="char:EOLhyphen"/>gol</hi> (an Author unqueſtionable with our beſt Aſtrologers) ſays— When ♄ ſhall be unfortunately poſited in the tenth houſe of a Nativity, he protends much loſs and damage to the Native from great perſons; ſometimes Captivity, Reſtraint or Impriſon<g ref="char:EOLhyphen"/>ment; much peril by falls from high places; (there may be an Allegory in the Phraſes) nay, he generally makes Shipwrack of the Natives Dignities, Honours and Preferment.—If he ſhall be in <hi>Leo,</hi>—he portends Impriſonment and Bonds by the ſen<g ref="char:EOLhyphen"/>tence of a Judge.—But if with ♃ there, (as here he is) the Na<g ref="char:EOLhyphen"/>tive ſhall then be in great Peril of ſufferings, although he be no
+<pb n="10" facs="tcp:168563:6"/>ways culpable, or deſerving thereof. <hi>Ptol. Parv. Lib.</hi> 1.</p>
+               <p>I acknowledge (and it is but reaſon ſo to do) that the pre<g ref="char:EOLhyphen"/>ſence of ♃ doth very much abate of the force of theſe moſt cru<g ref="char:EOLhyphen"/>el ſignifications; yet ♄ being there in ♌ his detriment, and a ſigne ſo contrary to his own nature, is much more apt (naturally) to do miſchief, then ♃ poſſibly can do good. And they both be<g ref="char:EOLhyphen"/>ing in Quartile to ♀ <hi>Domina Aſcendentis,</hi> the Governeſs of the Horoſcope, argues the leſs good to be expected.</p>
+               <p>♄ in Quartile to ♀, hath ſignification of loſs of Honour, E<g ref="char:EOLhyphen"/>ſtate, and ſometimes portends the Native to be guilty of treache<g ref="char:EOLhyphen"/>ry and incivility; and the ſquare of ♃ to ♀, denotes the Native to be ſubject to deceits, and inconſtancy, a wavering mind, <hi>&amp;c.</hi> and that his joy and hopes ſhall be incontinently turned into ſorrow and miſery. See <hi>Argol ut ſupra,</hi> and <hi>Augerius Ferrer. de jud. Nat. Lib.</hi> 2. Now, ♃ being afflicted, as hath been at large ſhewed, and he Lord of the ſixth and third houſes, ſhould moſt ra<g ref="char:EOLhyphen"/>tionally ſignifie this eminent Natives Honour and Eminency to be unhappily undermined by his pretended Neighbour-Aſſi<g ref="char:EOLhyphen"/>ſtants and Relations, <hi>&amp;c.</hi> and that ſome of them ſhould turn A<g ref="char:EOLhyphen"/>poſtates and deſert him, when he ſhould moſt of all ſtand in need of their aid and aſſiſtance. This was and is in ſome meaſure made good, by thoſe late unfortunate (for ſuch they are) trou<g ref="char:EOLhyphen"/>bles and wars he was and yet is engaged in, againſt his neer Neighbour Princes.</p>
+               <p n="2">2. As we have conſidered ♄ as poſited in Conjunction of ♃, and <g ref="char:quadrine">□</g> of ♀, let us conſider him alſo by himſelf. ♄ being poſited in the Mid-heaven, (as Mr. <hi>Lilly</hi> ſaith, and it's true enough) never ſuffers the Native to enjoy Honour long, but caſts him down headlong, when it's leaſt expected; and being once de<g ref="char:EOLhyphen"/>jected, the Native riſes no more unto preferment. <hi>Chriſt. A<g ref="char:EOLhyphen"/>ſtrol. p.</hi> 620. The learned <hi>Origan</hi> ſaith the ſame in effect,—♄ <hi>in Medio Coeli ſemper objicit hominem periculis:</hi> ♄ in the tenth Houſe, always involves the Native in great dangers. <hi>Orig. de effectib. fol.</hi> 717. For examples, I need quote no other then that of <hi>Ludovicus</hi> King of <hi>Bohemia</hi> and <hi>Hungary,</hi> whoſe Geneſis was ſomething ſemblable to this Princely Native's; and his ſad Ca<g ref="char:EOLhyphen"/>taſtrophe, every one that is but meanly read in Hiſtory, cannot but remember.</p>
+               <p>And ſeriouſly if we conſider the Mid-heavens direction to the body of ♄ (now coming on) in ♌, a Signe that ♄ ſo eminently
+<pb n="11" facs="tcp:168563:6"/>hates, as being quite contrary to his Nature, and oppoſite to ♒, the place he moſt of all delighteth in: I ſay, if we ſeriouſly con<g ref="char:EOLhyphen"/>ſider this, we may juſtly acquaint this illuſtrious Native (not<g ref="char:EOLhyphen"/>withſtanding the flatteries that ſome have endeavoured to tickle his Princely ears withal) that he cannot be too careful of his honour and dignity at the preſent; for very much danger and prejudice is threatned unto him therein. And that the world may ſee I write not (like others) my own humours and con<g ref="char:EOLhyphen"/>ceits, for, or inſtead of Art, I will produce the authority of the beforecited <hi>Origanus,</hi> in the ſignification of ſuch a direction.— <hi>Ac in ſpecie Medii Coeli ad corpus ♄ directio, maximas indignita<g ref="char:EOLhyphen"/>tes, &amp; odia Principum aut Magnatum judicit; vario quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> malo<g ref="char:EOLhyphen"/>rum genere, dignitates, officia, honores atq, favores ſubvertit; Ne<g ref="char:EOLhyphen"/>gotia cum tarditate natum perficere facit, facinoroſa vero ſcelere excitat, &amp; nonnunquam mortem lata judicis ſententia portendit.</hi> For the honour I bear this eminent Native, I ſhall not render the words in Engliſh. But this I muſt needs acquaint my Rea<g ref="char:EOLhyphen"/>der with, — That they are Predictions of a very harſh ſound and import, as they relate to the Nativity of ſo glorious and ſo active a Prince. But <hi>Praemonitus, Praemunitus;</hi> a fore<g ref="char:EOLhyphen"/>warning, we ſay generally is a fore-arming. And thrice happy would it be for this Kingly Native, if (before this moſt malici<g ref="char:EOLhyphen"/>ous and dire direction aſſume its greateſt violence and ſury) he could but ſo order and diſpoſe of his great Affairs, let them be<g ref="char:EOLhyphen"/>long either to Camp or Council, as to be at peace and quiet with his Adverſaries. The beſt ſtriking is while the Iron is hot; and if once the direction comes on too faſt, his endeavours and means uſed for the ſetling things, will be neglected, and never come to any good end.</p>
+               <q>
+                  <l>There is a ſecret nick in reſtleſs time</l>
+                  <l>To be obſerved—</l>
+               </q>
+               <p>Saith the Poet — which if it be made but uſe of by this magnanimous Prince, may (yet) moſt eminently advantage him; but if neglected, the opportunity's forfeited, and the wound grows the further from a cure. It is onely by prudence, and good policy (if at all) the wiſe man can rule the Stars. <hi>Sapiens do<g ref="char:EOLhyphen"/>minabitur Astris.</hi>
+               </p>
+               <p n="3">3. This Princely Native hath ♎ aſcending, and ♂ poſited therein: and <hi>Ptolomy</hi> in his <hi>Cent. Aphor.</hi> 37. plainly tells us — That thoſe perſons who have ♈ or ♎ Horoſcopical at birth, will
+<pb n="12" facs="tcp:168563:7"/>raſhly be the cauſe of their own deaths. I have known this A<g ref="char:EOLhyphen"/>phoriſm verified in many (although but very few Kingly) Geni<g ref="char:EOLhyphen"/>tures; yet I remember that ♎ was aſcending in the Nativity of <hi>Henry</hi> the fourth of <hi>France;</hi> and it is eminently known, that he too careleſly and negligently expoſed himſelf to the cruelty and malice of <hi>Raviliac,</hi> who moſt baſely murthered him. But I moſt heartily wiſh, that this illuſtrious and noble-minded Prince may not be ſenſible of ſo malignant a face. Yet I moſt ſeriouſly and unfeignedly proteſt, it is but neceſſary for this Princely Native to be watchful and wary in all his actions, even in thoſe that pro<g ref="char:EOLhyphen"/>miſe the moſt fair, and that ſeem to be the moſt ſafe and ſecure: For if we obſerve the poſition of <hi>Venus,</hi> (Lady of the Horoſcope) and the Luminaries, there is another Aphoriſm that ſpeaks aloud to this Princely Native, <hi>viz. Dominus Horoſcopi in ſigno-violento, vel a maleficis infeſtatus, &amp; diſpoſitor Luminaris,</hi> &amp;c. — The Lord of the Aſcendent in a violent ſigne, afflicted of an unfor<g ref="char:EOLhyphen"/>tunate Planet; and the diſpoſer of the light of the time in a vi<g ref="char:EOLhyphen"/>olent ſigne afflicted after the ſame manner, portends great dan<g ref="char:EOLhyphen"/>ger of a violent end.</p>
+               <p>This Aphoriſm took place to purpoſe, in the Earl of <hi>Straf<g ref="char:EOLhyphen"/>fords</hi> Nativity: let it therefore be the prudence of this magna<g ref="char:EOLhyphen"/>nimous Prince, to anticipate its dire effects threatned in his Ge<g ref="char:EOLhyphen"/>niture. For here the Lady of the Aſcendent, and diſpoſer of the light of the time, is all one, <hi>viz.</hi> ♀; and ſhe is in ſquare to ♄ (as I noted before) who is the Malicious Promittor of this Na<g ref="char:EOLhyphen"/>tives miſeries.</p>
+               <p n="4">4. The Sun and Moon are in oppoſition from fixed ſignes, which is a moſt prodigious and unfortunate Poſition, and highly deſtructive to honour and Soveraignty, chiefly in the Geniture of a King, or one of Kingly Race, and happening in Cadent places of the figure, as here.</p>
+               <p>The learned <hi>Argol</hi> and <hi>Ferrerius</hi> tell us, That if the Sun and Moon be in oppoſition (as in this Nativity they are) the Honour, Eſtimation and Happineſs of the Native, are ſubject to mutati<g ref="char:EOLhyphen"/>on; and the Native in every thing ſhall prove variable and un<g ref="char:EOLhyphen"/>certain: it threatens great Riches, a ſtrong invaſion of poverty and want; and that upon his large poſſeſſions of honour, there ſhall fall mountains of unhappineſs and diſhonour; and after great health and ſanity of body and mind, he ſhall be ſubject to much weakneſs and diſcraſineſs; and in ſhort, a general change
+<pb n="13" facs="tcp:168563:7"/>from good to evil. See <hi>Ptol. Parv. Lib.</hi> 1. and <hi>Jud. Nat. Lib.</hi> 2.</p>
+               <p>It is the opinion of Mr. <hi>Lilly</hi> in his Introduction to Chriſtian Aſtrologie, <hi>p.</hi> 617.—That if neither of the Lights be in Angles, or in ſignes of a Maſculine quality, thoſe that are then born (al<g ref="char:EOLhyphen"/>though their beginning may be ſplendid and glorious, yet) their end will prove unproſperous. But the benign Planet ♃, fortu<g ref="char:EOLhyphen"/>nating or befriending both the Luminaries with propitious Rays, may in ſome meaſure qualifie, but not wholly extenuate the force and vigor of the fury portended by the forementioned Apho<g ref="char:EOLhyphen"/>riſms.</p>
+               <p>I might have been much larger in the general Fortune or Fate of this Princely Native; but my deſigne is not to deal in it, be<g ref="char:EOLhyphen"/>yond a preſent advice unto him, and a correction of thoſe many errours and miſtakes which already have invaded the world by reaſon of him. Thus much therefore ſhall ſerve in the ge<g ref="char:EOLhyphen"/>neral; and I ſhall in the next place onely compare the force of the Revolutions for this year, and the next enſuing, with the Di<g ref="char:EOLhyphen"/>rections now operating; and ſo conclude this Diſcourſe.</p>
+            </div>
+            <div type="part">
+               <p>The Revolution for this preſent year, began on <hi>Nov.</hi> 7. 7 <hi>h.</hi> 40 <hi>m. P. M.</hi> 1658.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>deg.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>min.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The R. A. of <hi>Sol</hi> is</cell>
+                        <cell>233.</cell>
+                        <cell>19</cell>
+                     </row>
+                     <row>
+                        <cell>The R. A. of time is</cell>
+                        <cell>115.</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Sum of both make R. A. <hi>M. C.</hi>
+                        </cell>
+                        <cell role="total">348.</cell>
+                        <cell role="total">19</cell>
+                     </row>
+                     <row>
+                        <cell>Add the Quadrant</cell>
+                        <cell>90.</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">438.</cell>
+                        <cell role="total">19</cell>
+                     </row>
+                     <row>
+                        <cell>Circle Subſtract</cell>
+                        <cell>360.</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Remains the O. A. of the Horoſcope</cell>
+                        <cell role="total">78.</cell>
+                        <cell role="total">19</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="14" facs="tcp:168563:8"/>
+               <figure>
+                  <figDesc>figure containing astrological data</figDesc>
+                  <head>Figura Revolu<g ref="char:EOLhyphen"/>tionis, pro Anno 1658. Init. Menſ. D. H. M. Nov. 7. 7. 40. P. M. Lat. 59.</head>
+               </figure>
+               <p>This Revolutional Figure is not very agreeable with that of the Radix; the leſs good therefore is to be expected from it. Be<g ref="char:EOLhyphen"/>ſides, we find the Moon (who is Lady of the Aſcendent) in quartile to the Sun, a general ſignificator of honour and digni<g ref="char:EOLhyphen"/>ty. And the malignant Planet ♄, caſts a malicious oppoſition to the ♁ in the tenth houſe, and a ſquare to the Aſcendent from cardinal ſignes; which portend this eminent Native to ſuffer much detriment and damage, not onely in his Eſtate, Honour and Eſtimation, but in his body alſo; by melancholy, ſuper<g ref="char:EOLhyphen"/>abundance of ill and corrupted blood, and other noxious hu<g ref="char:EOLhyphen"/>mours; occaſioned by cold and moiſture predominating: for ♄ is Lord of the ſixth in the Figure, <hi>viz.</hi> the Houſe of ſickneſs.</p>
+               <p>And as ♄ is Lord of the ſeventh houſe in the Revolution, and the fourth of the Radix, and he the principal afflicting Planet, he preſages this Princely Native to be ſubject to the frowns and fu<g ref="char:EOLhyphen"/>ry of his enemies, in a very rugged and ſharp manner; and may perhaps be neceſſitated thereby to part with ſome Gariſon, City, Town, Caſtle, ſtong hold, or the like; for the fourth Houſe hath
+<pb n="15" facs="tcp:168563:8"/>ſignification of ſuch: and this ſhould be the more eminent and conſiderable, and to his greater detriment, becauſe the Horoſcope and place of ♄ are in Equinoctial and Solſtitial ſignes; and ♂ the Natural ſignificator of ſuch Actions, is in <g ref="char:quadrine">□</g> of ♃ Lord of the tenth.</p>
+               <p>But now, if we conſider that the Moon is but lately ſeparated from the body of ♃, not yet quite elongated from his Rayes, and that the Sun is in <g ref="char:trine">△</g> to the Aſcendent and Mid-heaven, and in ⚹ to ♀ Lady of the Aſcendent of the Radix, and ♃ upon the very Cuſp of the ſecond Houſe — conſidering theſe Teſtimonies, we may (I ſay) conclude— There will be ſome deſigne or en<g ref="char:EOLhyphen"/>deavour, and that in ſome degree eminent and conſiderable, u<g ref="char:EOLhyphen"/>ſed to aſſiſt this moſt worthy Prince, with men and monies, and other things his preſent condition may require or ſtand in need of. But his preſent impending fate (before at large hinted at) adviſeth him to accept the friendſhip offered, and not by negle<g ref="char:EOLhyphen"/>cting ſuch opportunities, to prove an enemy unto himſelf.</p>
+               <p>
+                  <hi>February,</hi> part of <hi>March</hi> and <hi>April,</hi> may prove moſt unhap<g ref="char:EOLhyphen"/>py unto him. For on <hi>February</hi> the twenty fifth, there happens a <g ref="char:quadrine">□</g> of ♄ and ♂ from the fourth houſe, and Aſcendent of this e<g ref="char:EOLhyphen"/>minent Princes Radix, and in ill Aſpect to the Aſcendent of his Revolution alſo: which malicious Configuration threatens much damage and ſpoyles to happen to his Armies, and mightily waſts and conſumes his ſtrength and power; and in brief, renders him unſucceſsful in all his attempts.</p>
+               <p>Upon the ſecond day of <hi>March,</hi> there happens an ☍ of ♃ and ♂ from fixed ſignes, <hi>viz.</hi> ♒ and ♌; ♂ being then in the eighth of his Revolution, and thence oppoſing ♃ in his ſecond, which ſcatters and conſumes his ſubſtance, and procures him many pri<g ref="char:EOLhyphen"/>vate and ſecret enemies: it portends alſo his publick Adverſaries to be active; and in aſſiſtance and force, too powerful for him to deal with.</p>
+               <p>Then on <hi>April</hi> 26. the <g ref="char:Moon">☽</g> is eclipſed near the radical place of ☉, and the Revolutional place of ♂: it will then be a time and ſea<g ref="char:EOLhyphen"/>ſon fit for Action, and therefore [if there be any thing, at leaſt, in Lunar Eclipſes; in Solar, I queſtion it not!] the more emi<g ref="char:EOLhyphen"/>nently dangerous unto this Kingly Native. I like it not, when the Heavens are ſet in <hi>Battalia</hi> againſt any perſon, be he either illuſtrious or mean; for without controverſie, they argue his fate to be the more cruel and inauſpicious.</p>
+               <pb n="16" facs="tcp:168563:9"/>
+               <p>I could wiſh that this eminent <hi>Hero</hi> would take the advantage offered him by the Trine of the Sun and ♃ about the middle of <hi>March,</hi> which (happening (as it doth) from the tenth and ſecond houſes of the Revolution) will not onely aſſiſt him with Loans of Money, and a moderate advantage in all things per<g ref="char:EOLhyphen"/>taining to his Eſtate, as his preſent condition requires, <hi>viz.</hi> Men and Shipping, Ammunition, <hi>&amp;c.</hi> but ſhould alſo forward him in his Councils, Actions and Negotiations; and methinks (if ſo be himſelf pleaſe) might alſo procure a peace or agreement with ſome of his preſent Adverſaries or Oppoſers; and in all proba<g ref="char:EOLhyphen"/>bility either <hi>May</hi> or <hi>June</hi> ſhould perfect what at the time be<g ref="char:EOLhyphen"/>fore mentioned, ſhould be ſet on foot for his aſſiſtance.</p>
+               <p>Let it be this Princely Natives wiſdom to make uſe of the middle of the year, for the advantage and ſupport of his affairs both publick and private; for the beginning and the end thereof, are notoriouſly averſe to all his undertakings. What the begin<g ref="char:EOLhyphen"/>ning portends, you have heard already; and what the end of the year ſignifies, the Eclipſe of the Moon (ſhe being Lady of this Revolution) near the radical place of <hi>Cauda Draconis,</hi> on the 19 day of <hi>October,</hi> acquaints us. It is celebrated in the eleventh Houſe of the Revolution, in <g ref="char:quadrine">□</g> to the Cuſp of the ſecond Houſe, and to ♃ alſo, who is Lord of the tenth Houſe, but poſited in the ſecond.</p>
+               <p>Aſtrologically it portends a Cataſtrophe of his Hopes and Ex<g ref="char:EOLhyphen"/>pectations; it deſtroys ſeveral Engagements, Leagues and Tru<g ref="char:EOLhyphen"/>ces betwixt him and ſome of his Friends and Allyes; it weakens his Subſtance, and in divers reſpects threatens him ſuperlative prejudice.</p>
+               <p>And thus much ſhall ſerve for the Judgments of the Actions depending on this years Revolution.</p>
+            </div>
+            <div type="part">
+               <p>The Revolution for this eminent Natives thirty ſeventh year current, begins 1659, on <hi>November</hi> the ſeventh, 13 <hi>hours,</hi> 29 <hi>minutes P. M.</hi>
+               </p>
+               <pb n="17" facs="tcp:168563:9"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>deg.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>min.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>R. Aſcention of <hi>Sol</hi> is</cell>
+                        <cell>233.</cell>
+                        <cell>19</cell>
+                     </row>
+                     <row>
+                        <cell>R. Aſcention of time is</cell>
+                        <cell>202.</cell>
+                        <cell>15</cell>
+                     </row>
+                     <row>
+                        <cell>Sum of both</cell>
+                        <cell role="total">435.</cell>
+                        <cell role="total">34</cell>
+                     </row>
+                     <row>
+                        <cell>Circle Subſtract</cell>
+                        <cell>360.</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>R. Aſcention of the <hi>M. Coeli</hi>
+                        </cell>
+                        <cell role="total">75.</cell>
+                        <cell role="total">34</cell>
+                     </row>
+                     <row>
+                        <cell>Add the Quadrant</cell>
+                        <cell>90.</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Oblique Aſcention of the Aſcendent</cell>
+                        <cell role="total">165.</cell>
+                        <cell role="total">34</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The Figure follows.</p>
+               <figure>
+                  <figDesc>figure containing astrological data</figDesc>
+                  <head>The Revolutio<g ref="char:EOLhyphen"/>nal Figure for the year 1659. begin<g ref="char:EOLhyphen"/>ning <hi>November</hi> 7. 13 <hi>h.</hi> 29. <hi>m. P. M. Lat.</hi> 59 <hi>d.</hi>
+                  </head>
+               </figure>
+               <p>But a very little time, <hi>viz.</hi> three days before the Revolution begins, there happens a great Eclipſe of the Sun in his Radical place of this illuſtrious Geniture; which, if we may give credit to honeſt <hi>John Schoner,</hi> is very dangerous and prejudicial to the Natives life. His words are theſe — <hi>An Eclipſe of either of
+<pb n="18" facs="tcp:168563:10"/>the Luminaries in the Angles of a Nativity, or in the place or places of the Luminaries therein, ſhews eminent danger of death to the Native in that year.</hi> And it happening in a year when ſo dire a direction is operating (as I have before mentioned) portends it the more cruel and malicious.</p>
+               <p>
+                  <hi>Mars</hi> being upon the Cuſp of the tenth Houſe of this Revo<g ref="char:EOLhyphen"/>lutional Figure, <hi>viz.</hi> the Houſe of Honour, Renown and Digni<g ref="char:EOLhyphen"/>ty, <hi>&amp;c.</hi> thence caſting a ſquare to ♃, a natural ſignificator of honour and greatneſs, is an Argument too ſure (at this time e<g ref="char:EOLhyphen"/>ſpecially) of a Cataſtrophe, or deſtruction of this eminent Na<g ref="char:EOLhyphen"/>tives power and greatneſs: it portends many heaps of bad ſuc<g ref="char:EOLhyphen"/>ceſſes; crowds of Scandals, Ignominies and Diſgraces, and many notorious Detractions, <hi>&amp;c.</hi> for both ♂ and ♃ are in the Houſes of ☿, in Bi-corporeal ſignes.</p>
+               <p>Beſides this, the Moon is in her detriment in the fourth Houſe, thence caſting a <g ref="char:quadrine">□</g> to the Cuſp of the Houſe of Subſtance, and ♄ by his bodily preſence afflicts the ♁; which infortunate Poſition ſcatters and conſumes this Kingly Natives Subſtance and Trea<g ref="char:EOLhyphen"/>ſure; and this after an obſcure manner, (comparatively) and ſo privately, that he will hardly diſcover the ſame until it be too late.</p>
+               <p>Four Planets in the third Houſe in ♏, diſpoſed of by ♂, and he caſting an ☍ to the fourth Houſe, and a <g ref="char:quadrine">□</g> to the Lord thereof, <hi>viz.</hi> ♃, will moſt of this year infortunate him, conſtantly in the concluſion of things; and in ſtrong Holds, Towns, Caſtles, For<g ref="char:EOLhyphen"/>tifications, <hi>&amp;c.</hi> and this to his very great prejudice, and retardati<g ref="char:EOLhyphen"/>on of his affairs.</p>
+               <p>Nevertheleſs, among all theſe thundering Arguments of in<g ref="char:EOLhyphen"/>fortunacy, we find the Moon in <g ref="char:trine">△</g> to ♃, and the Sun, ♀ and ☿, caſt their friendly ⚹'s to the Aſcendent-—-which ſhould yeild this Princely Native ſome convenient aſſiſtance or relief in the midſt of his miſ-fortunes, and may in probability give him a lit<g ref="char:EOLhyphen"/>tle encouragement by ſome unexpected victory, which ſhould be performed by ſome notable Stratagem, or nimble piece of Poli<g ref="char:EOLhyphen"/>cy. But the ſignificators of this happineſs being weak, and void of all eſſential Dignities, argues the ſame not long to con<g ref="char:EOLhyphen"/>tinue.</p>
+               <p>♀ Lady of the Aſcendent of the Radix combuſt, and near the body of ☿ in ♏, portends an ill habit of body, attended with many perturbations and troubles of mind; it ſubjects him to
+<pb n="19" facs="tcp:168563:10"/>many hazards and dangers. <hi>Combuſtus ut captivus, incarceratus, vituperatus, abſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> poſſe,</hi> ſaith <hi>Bethem,</hi> Cent. Aphor. 4. A Planet combuſt, is as a man captived or impriſoned, without hope of getting himſelf free.</p>
+               <p>We find ♄ in this figure upon the radical place of ♀, which ex<g ref="char:EOLhyphen"/>tinguiſheth his Honours, Pleaſures and Delights, and denotes moſt things to ſucceed croſsly with him, and very contrary to his Deſignes and Expectancies.</p>
+               <p>But to draw toward an end: — As ♄ afflicts the ♁, and ♂ the chief Angles of the Figure by his preſence, and Aſpects, they portend this eminent Native to be ſurrounded with much trea<g ref="char:EOLhyphen"/>chery; infidelity and perfidiouſneſs of Officers, Souldiers and Servants alſo, (for ♄ is Lord of the ſixth) attends him. He will be ſubject and apt to receive many wounds and ſcars in his Honour, Reputation and Eſtimation alſo! I am doubtful, ſo many (and mighty likewiſe) that he will (before this Revolution be en<g ref="char:EOLhyphen"/>ded) have occaſion to curſe and reprobate the counſel and ad<g ref="char:EOLhyphen"/>vice of thoſe fawning Flatterers and Paraſites that have (under pretence of Art) puffed him up with conceits and expectations to the contrary.</p>
+               <p>Theſe Revolutional Arguments of evil, being on the force of the before-mentioned Direction, which carries ſo much of black<g ref="char:EOLhyphen"/>neſs and horrour in it; Aſtrologers (with good reaſon) tell us—<hi>Quicquid ligat</hi> ♄, <hi>Solvit</hi> ♃: And may we not with as good reaſon conclude, That whatſoever ♃ does, ♄ undoes? If ſo,—Then is this famous King in much hazard and danger of be<g ref="char:EOLhyphen"/>ing deprived, by the Mid-heavens occurſe to the body of ♄, of what the ſame ſignificatour to the body of ♃ gave him. And this I leave to the judgment and conſideration of every honeſt Aſtrologer! not as an <hi>Aenigma,</hi> or dark thing; but as a con<g ref="char:EOLhyphen"/>ſpicuous Prediction, deduced from the moſt rational grounds of Art; not from the Sybils Oracles, or Theurgie.</p>
+               <p>The malitious direction before mentioned, is concomitated with three others, of bad import—<hi>viz.</hi> ♁ <hi>ad Ter.</hi> ♂. (2.) <g ref="char:Moon">☽</g> 
+                  <hi>ad Ter.</hi> ♂. (3.) Aſcendent <hi>ad Ter.</hi> ♂. And theſe are to be looked on as the more cruel, in that there is not one Argument of good to aſſiſt (except before excepted) or abate any thing of their evil portents.</p>
+               <p>The principal time this illuſtrious Native ought to provide a<g ref="char:EOLhyphen"/>gainſt, is the middle of 1660. for then the <hi>M. C. ad Corp.</hi> ♄,
+<pb n="20" facs="tcp:168563:11"/>takes place in it's greateſt violence: but you are to underſtand, that as the greateſt danger in a Bullet is before it touch the mark, ſo it is in a direction; this Native therefore ought to be ſecuring himſelf beforehand. Moſt of this year, ♄ tranſits the place of ♀ Lady of the Aſcendent at birth, and the <g ref="char:quadrine">□</g> of the e<g ref="char:EOLhyphen"/>leventh houſes both of the Radix and Revolution; which ſeem to accelerate the before-mentioned dire portents! From all which Evils and Dangers, good Lord deliver this moſt glorious Prince.</p>
+               <q>
+                  <l>In private Councils, and in publick Wars,</l>
+                  <l>Kings onely act, as acted by the Stars.</l>
+               </q>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
